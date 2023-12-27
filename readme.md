@@ -1,0 +1,17 @@
+# Company website
+a simple static website for company
+
+## Author
+
+[mohammad Ezzatzadeh](https://github.com/pakoti)
+
+
+## License
+
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+<img src=gplv3.png>
+
+
+## Technologies Used
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
